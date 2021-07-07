@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sample_Account_Validation_Rule</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+	 $Setup.Process_Switches__c.Validation_Rules__c, 
+	 ISCHANGED(Name)
+)</errorConditionFormula>
+    <errorDisplayField>Name</errorDisplayField>
+    <errorMessage>The account name cannot be changed</errorMessage>
+</ValidationRule>

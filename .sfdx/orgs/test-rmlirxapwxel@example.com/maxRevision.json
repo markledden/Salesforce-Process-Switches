@@ -1,0 +1,95 @@
+{
+  "serverMaxRevisionCounter": 292,
+  "sourceMembers": {
+    "ListView__Process_Switches__c.Process_Switches": {
+      "serverRevisionCounter": 63,
+      "lastRetrievedFromServer": 63,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "CustomField__Process_Switches__c.Apex_Triggers__c": {
+      "serverRevisionCounter": 1,
+      "lastRetrievedFromServer": 1,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Process_Switches__c.Flow__c": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": 2,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Process_Switches__c.Process_Builder__c": {
+      "serverRevisionCounter": 10,
+      "lastRetrievedFromServer": 10,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Process_Switches__c.Validation_Rules__c": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Process_Switches__c.Workflow__c": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomObject__Process_Switches__c": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "Flow__Sample_Record_Triggered_Flow": {
+      "serverRevisionCounter": 49,
+      "lastRetrievedFromServer": 49,
+      "memberType": "Flow",
+      "isNameObsolete": false
+    },
+    "ValidationRule__Account.Sample_Account_Validation_Rule": {
+      "serverRevisionCounter": 67,
+      "lastRetrievedFromServer": 67,
+      "memberType": "ValidationRule",
+      "isNameObsolete": false
+    },
+    "Workflow__Account": {
+      "serverRevisionCounter": 279,
+      "lastRetrievedFromServer": 279,
+      "memberType": "Workflow",
+      "isNameObsolete": false
+    },
+    "Flow__Sample_Account_Process_Builder": {
+      "serverRevisionCounter": 280,
+      "lastRetrievedFromServer": 280,
+      "memberType": "Flow",
+      "isNameObsolete": false
+    },
+    "ApexTrigger__SampleAccountTrigger": {
+      "serverRevisionCounter": 286,
+      "lastRetrievedFromServer": 286,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": true
+    },
+    "ApexTrigger__test": {
+      "serverRevisionCounter": 290,
+      "lastRetrievedFromServer": 290,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": false
+    },
+    "ApexTrigger__Account_Trigger": {
+      "serverRevisionCounter": 291,
+      "lastRetrievedFromServer": 291,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": true
+    },
+    "ApexTrigger__SampleAccountApexTrigger": {
+      "serverRevisionCounter": 292,
+      "lastRetrievedFromServer": 292,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": false
+    }
+  }
+}

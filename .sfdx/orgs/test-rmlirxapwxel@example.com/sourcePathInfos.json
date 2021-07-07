@@ -1,0 +1,388 @@
+{
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1625651548292,
+    "changeTime": 1625651548292,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1625651548293,
+    "changeTime": 1625651548293,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1625658964162,
+    "changeTime": 1625658964162,
+    "contentHash": "089d7c9a7d9e749d1dacdff99bd716ffeeb7e517",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations",
+    "isDirectory": true,
+    "modifiedTime": 1625655609284,
+    "changeTime": 1625655609284,
+    "contentHash": "dd955f58354810cdd7e611926b2588e223ee1613",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US",
+    "isDirectory": true,
+    "modifiedTime": 1625655101628,
+    "changeTime": 1625655101628,
+    "contentHash": "67bf4c634c49b85fc22fd1ba89a930c6cddd28c1",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Apex_Triggers__c.fieldTranslation-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Apex_Triggers__c.fieldTranslation-meta.xml",
+    "size": 214,
+    "modifiedTime": 1625655101624,
+    "changeTime": 1625655101624,
+    "contentHash": "57e3c7d820eda61ca54194780c3a72c68eaaa172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Flow__c.fieldTranslation-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Flow__c.fieldTranslation-meta.xml",
+    "size": 196,
+    "modifiedTime": 1625655101625,
+    "changeTime": 1625655101625,
+    "contentHash": "4eec7475f4544fe75d98b4ed75447a4989fa3663",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Process_Builder__c.fieldTranslation-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Process_Builder__c.fieldTranslation-meta.xml",
+    "size": 218,
+    "modifiedTime": 1625655101626,
+    "changeTime": 1625655101626,
+    "contentHash": "6b385be02b873fa82b2d9cf0d59212155735b721",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Process_Switches__c-en_US.objectTranslation-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Process_Switches__c-en_US.objectTranslation-meta.xml",
+    "size": 384,
+    "modifiedTime": 1625655101622,
+    "changeTime": 1625655101622,
+    "contentHash": "a06aa4e1e96355c621811e7de7638f928dd706af",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObjectTranslation"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Validation_Rules__c.fieldTranslation-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Validation_Rules__c.fieldTranslation-meta.xml",
+    "size": 220,
+    "modifiedTime": 1625655101627,
+    "changeTime": 1625655101627,
+    "contentHash": "11f5422edf37c4063e4fefe2ed3840cd60b4fffa",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Workflow__c.fieldTranslation-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objectTranslations\\Process_Switches__c-en_US\\Workflow__c.fieldTranslation-meta.xml",
+    "size": 204,
+    "modifiedTime": 1625655101628,
+    "changeTime": 1625655101628,
+    "contentHash": "4e867ca1a90b866cd6cfe3deca8aeee74171407c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1625657228771,
+    "changeTime": 1625657228771,
+    "contentHash": "07c45667d3f5d36a11b5bb15a5449c3612adc265",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c",
+    "isDirectory": true,
+    "modifiedTime": 1625655101605,
+    "changeTime": 1625655101605,
+    "contentHash": "791d79b7f9807c3fc453c0e8823a9f41216d53e4",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\Process_Switches__c.object-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\Process_Switches__c.object-meta.xml",
+    "size": 282,
+    "modifiedTime": 1625655101597,
+    "changeTime": 1625655101597,
+    "contentHash": "78e9ff6f80f07c2380cff2f6bba26b16bcc5516d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1625655101604,
+    "changeTime": 1625655101604,
+    "contentHash": "7f921677813b0a957079500f09596873064a0d01",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Apex_Triggers__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Apex_Triggers__c.field-meta.xml",
+    "size": 331,
+    "modifiedTime": 1625655101598,
+    "changeTime": 1625655101598,
+    "contentHash": "1d3fdea177416d5367a74034f72f269841a3ce78",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Flow__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Flow__c.field-meta.xml",
+    "size": 313,
+    "modifiedTime": 1625655101600,
+    "changeTime": 1625655101600,
+    "contentHash": "6947abcc34dba6c1a3977b006628e3ea77e0753f",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Process_Builder__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Process_Builder__c.field-meta.xml",
+    "size": 335,
+    "modifiedTime": 1625655835358,
+    "changeTime": 1625655835358,
+    "contentHash": "900928515ea6e2cfd8b1c35cf1c88d6445a708b7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Validation_Rules__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Validation_Rules__c.field-meta.xml",
+    "size": 337,
+    "modifiedTime": 1625655101603,
+    "changeTime": 1625655101603,
+    "contentHash": "b61d12bd5b3d0bf40f644f2cf7e4b71987dc20be",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Workflow__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\fields\\Workflow__c.field-meta.xml",
+    "size": 321,
+    "modifiedTime": 1625655101604,
+    "changeTime": 1625655101604,
+    "contentHash": "9b34d35b60c2396d3e1385dc6d21269ff6c196b6",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\listViews": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\listViews",
+    "isDirectory": true,
+    "modifiedTime": 1625655352151,
+    "changeTime": 1625655352151,
+    "contentHash": "8d160f5cb079768e4bfcf389418e4e8f97a2e36e",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\listViews\\Process_Switches.listView-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Process_Switches__c\\listViews\\Process_Switches.listView-meta.xml",
+    "size": 495,
+    "modifiedTime": 1625657228785,
+    "changeTime": 1625657228785,
+    "contentHash": "538da45cb4e5d2be50a285013171798e07f87d94",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ListView"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch",
+    "isDirectory": true,
+    "modifiedTime": 1625651566788,
+    "changeTime": 1625651566788,
+    "contentHash": "7674640e8e70b1725c81384ea9465e5a0e2dd494",
+    "state": "u",
+    "isWorkspace": true
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\flows": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\flows",
+    "isDirectory": true,
+    "modifiedTime": 1625657926098,
+    "changeTime": 1625657926098,
+    "contentHash": "e5e6d1780d9f0363ba629ce1d685aefcaa4b8f3c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\flows\\Sample_Record_Triggered_Flow.flow-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\flows\\Sample_Record_Triggered_Flow.flow-meta.xml",
+    "size": 3907,
+    "modifiedTime": 1625657228791,
+    "changeTime": 1625657228791,
+    "contentHash": "625ea41e6a09801ccfa496612f76382c825ff411",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Flow"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Account\\validationRules": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Account\\validationRules",
+    "isDirectory": true,
+    "modifiedTime": 1625657228772,
+    "changeTime": 1625657228772,
+    "contentHash": "71847a8f4c13408ea1402a71d9ea9037d77d69c6",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\workflows": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\workflows",
+    "isDirectory": true,
+    "modifiedTime": 1625657228794,
+    "changeTime": 1625657228794,
+    "contentHash": "7fb00a023b87cf19671452bb28b7c7d588d2f173",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Account": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Account",
+    "isDirectory": true,
+    "modifiedTime": 1625657228771,
+    "changeTime": 1625657228771,
+    "contentHash": "b4eee88c903fa0d92d4e81b9f51a50ead8d7e6e9",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Account\\validationRules\\Sample_Account_Validation_Rule.validationRule-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\objects\\Account\\validationRules\\Sample_Account_Validation_Rule.validationRule-meta.xml",
+    "size": 450,
+    "modifiedTime": 1625657228773,
+    "changeTime": 1625657228773,
+    "contentHash": "a90f0e263036a6589b9584fac226cdbe6cb2354f",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ValidationRule"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\workflows\\Account.workflow-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\workflows\\Account.workflow-meta.xml",
+    "size": 858,
+    "modifiedTime": 1625657228794,
+    "changeTime": 1625657228794,
+    "contentHash": "1b1dd2091753ee4e4d9133c58649e2f3edb1cb91",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Workflow"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\flows\\Sample_Account_Process_Builder.flow-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\flows\\Sample_Account_Process_Builder.flow-meta.xml",
+    "size": 6220,
+    "modifiedTime": 1625657926099,
+    "changeTime": 1625657926099,
+    "contentHash": "a4ad9c9dd898ffae5c253cfd62f0473bce2023d8",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Flow"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1625661838298,
+    "changeTime": 1625661838298,
+    "contentHash": "24599f869db9adcc2865e44e18b03e00eb5b111b",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountTrigger.trigger-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountTrigger.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1625658964165,
+    "changeTime": 1625658964165,
+    "contentHash": "e1806a3a5d25dbf4bf6ab748cfcb730f2dad541c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountTrigger.trigger": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountTrigger.trigger",
+    "size": 60,
+    "modifiedTime": 1625658964165,
+    "changeTime": 1625658964165,
+    "contentHash": "d8a7726591af95ff42bfd4dd76edf196a59c751c",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\test.trigger-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\test.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1625661772752,
+    "changeTime": 1625661772752,
+    "contentHash": "e1806a3a5d25dbf4bf6ab748cfcb730f2dad541c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\test.trigger": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\test.trigger",
+    "size": 44,
+    "modifiedTime": 1625661772755,
+    "changeTime": 1625661772755,
+    "contentHash": "3206af783c7d3f606c43fbb1d035058f79c2429c",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountApexTrigger.trigger": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountApexTrigger.trigger",
+    "size": 472,
+    "modifiedTime": 1625661838299,
+    "changeTime": 1625661838299,
+    "contentHash": "7e70dc6d3740ffc3923d31d02b1bd400fa6e691f",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountApexTrigger.trigger-meta.xml": {
+    "sourcePath": "C:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\VS Code - Automation Killswitch\\Salesforce Automation Killswitch\\force-app\\main\\default\\triggers\\SampleAccountApexTrigger.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1625661838295,
+    "changeTime": 1625661838295,
+    "contentHash": "e1806a3a5d25dbf4bf6ab748cfcb730f2dad541c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  }
+}
